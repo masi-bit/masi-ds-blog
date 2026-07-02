@@ -1,3 +1,0 @@
-sreamlit
-pandas
-matplotlib
